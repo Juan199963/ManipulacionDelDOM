@@ -1,9 +1,3 @@
-let elemento;
-
-elemento = document;
-
-elemento = document.head;
-
-elemento = document.title;
+let elemento = document.links;
 
 console.log(elemento);
